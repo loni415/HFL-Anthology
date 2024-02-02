@@ -23,6 +23,9 @@
 
 | 名称 | 描述 |
 | :------ | :------ |
+| [VLE](https://github.com/iflytek/VLE) | Multimodal Vision-Language Encoder |
+| [MiniRBT](https://github.com/iflytek/MiniRBT) | Chinese MiniRBT models (a series of small pre-trained models) |
+| [LERT](https://github.com/ymcui/LERT) | Chinese LERT models (small-level, base-level, large-level) |
 | [PERT](https://github.com/ymcui/PERT) | Chinese and English PERT models (base-level, large-level) |
 | [Chinese-MobileBERT](https://github.com/ymcui/Chinese-MobileBERT) | Chinese MobileBERT (base-level, large-level) *(archival purpose only)* |
 | [CINO](https://github.com/ymcui/Chinese-Minority-PLM) | Pre-trained Language Models for Chinese Minority Languages |
@@ -37,6 +40,8 @@
 
 | 名称 | 类型 | 论文 |
 | :------ | :------: | :------: |
+| [CCTC](https://github.com/destwang/CTCResources) | Text Correction | [Wang et al., 2022](https://aclanthology.org/2022.coling-1.294.pdf) |
+| [CTC 2021](https://github.com/destwang/CTC2021) | Text Correction |[Wang et al., 2022](https://arxiv.org/pdf/2208.05681.pdf)|
 | [ExpMRC](https://github.com/ymcui/expmrc) | Reading Comprehension | [Cui et al., 2021](https://arxiv.org/abs/2105.04126) |
 | [AdvRACE](https://github.com/NoviScl/AdvRACE) | Reading Comprehension | [Si et al., 2020](https://arxiv.org/abs/2004.14004) |
 | [CMRC 2019](https://github.com/ymcui/cmrc2019) | Reading Comprehension | [Cui et al., 2020](https://arxiv.org/abs/2004.03116) |
@@ -86,7 +91,7 @@
 | 2022 | [PERT: Pre-training BERT with Permuted Language Model](https://arxiv.org/abs/2203.06906) | Yiming Cui, Ziqing Yang, Ting Liu | | [GitHub](https://github.com/ymcui/PERT) |
 | 2022 | [A Static and Dynamic Attention Framework for Multi Turn Dialogue Generation](https://dl.acm.org/doi/10.1145/3522763) | Wei-Nan Zhang, Yiming Cui, Kaiyan Zhang, Yifa Wang, Qingfu Zhu, Lingzhi Li, Ting Liu | ACM TOIS |  |
 | 2022 | [Cross-Lingual Text Classification with Multilingual Distillation and Zero-Shot-Aware Training](https://arxiv.org/abs/2202.13654) | Ziqing Yang, Yiming Cui, Zhigang Chen, Shijin Wang | | |
-| 2022 | [CINO: A Chinese Minority Pre-trained Language Model](https://arxiv.org/abs/2202.13558) | Ziqing Yang, Zihang Xu, Yiming Cui, Baoxin Wang, Min Lin, Dayong Wu, Zhigang Chen | [GitHub](https://github.com/ymcui/Chinese-Minority-PLM) |
+| 2022 | [CINO: A Chinese Minority Pre-trained Language Model](https://aclanthology.org/2022.coling-1.346/) | Ziqing Yang, Zihang Xu, Yiming Cui, Baoxin Wang, Min Lin, Dayong Wu, Zhigang Chen | COLING 2022 | [GitHub](https://github.com/ymcui/Chinese-Minority-PLM) |
 | 2022 | [HFL at SemEval-2022 Task 8: A Linguistics-inspired Regression Model with Data Augmentation for Multilingual News Similarity](https://aclanthology.org/2022.semeval-1.157/) | Zihang Xu, Ziqing Yang, Yiming Cui, Zhigang Chen | SemEval 2022 | [GitHub](https://github.com/GeekDream-x/SemEval2022-Task8-TonyX) |
 | 2022 | [HIT at SemEval-2022 Task 2: Pre-trained Language Model for Idioms Detection](https://aclanthology.org/2022.semeval-1.28/) | Zheng Chu, Ziqing Yang, Yiming Cui, Zhigang Chen, Ming Liu | SemEval 2022 | |
 | 2022 | [TextPruner: A Model Pruning Toolkit for Pre-trained Language Models](https://aclanthology.org/2022.acl-demo.4) | Ziqing Yang, Yiming Cui, Zhigang Chen | ACL 2022 Demo | [GitHub](https://github.com/airaria/TextPruner)

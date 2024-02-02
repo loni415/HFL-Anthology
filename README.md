@@ -11,7 +11,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 <!-- TOC -->
 
-- [Pre-trained Language Models](#Pre-trained-Language-Models)
+- [Pre-trained Language Model](#Pre-trained-Language-Model)
 - [Dataset](#Dataset)
 - [Toolkit](#Toolkit)
 - [Demo](#System-Demonstration)
@@ -24,6 +24,9 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description |
 | :------ | :------ |
+| [VLE](https://github.com/iflytek/VLE) | Multimodal Vision-Language Encoder |
+| [MiniRBT](https://github.com/iflytek/MiniRBT) | Chinese MiniRBT models (a series of small pre-trained models) |
+| [LERT](https://github.com/ymcui/LERT) | Chinese LERT models (small-level, base-level, large-level) |
 | [PERT](https://github.com/ymcui/PERT) | Chinese and English PERT models (base-level, large-level) |
 | [Chinese-MobileBERT](https://github.com/ymcui/Chinese-MobileBERT) | Chinese MobileBERT (base-level, large-level) *(archival purpose only)* |
 | [CINO](https://github.com/ymcui/Chinese-Minority-PLM) | Pre-trained Language Models for Chinese Minority Languages |
@@ -38,6 +41,8 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Type | Paper |
 | :------ | :------: | :------: |
+| [CCTC](https://github.com/destwang/CTCResources) | Text Correction | [Wang et al., 2022](https://aclanthology.org/2022.coling-1.294.pdf) |
+| [CTC 2021](https://github.com/destwang/CTC2021) | Text Correction |[Wang et al., 2022](https://arxiv.org/pdf/2208.05681.pdf)|
 | [ExpMRC](https://github.com/ymcui/expmrc) | Reading Comprehension | [Cui et al., 2021](https://arxiv.org/abs/2105.04126) |
 | [AdvRACE](https://github.com/NoviScl/AdvRACE) | Reading Comprehension | [Si et al., 2020](https://arxiv.org/abs/2004.14004) |
 | [CMRC 2019](https://github.com/ymcui/cmrc2019) | Reading Comprehension | [Cui et al., 2020](https://arxiv.org/abs/2004.03116) |
